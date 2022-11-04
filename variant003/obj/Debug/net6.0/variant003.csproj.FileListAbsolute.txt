@@ -1,0 +1,15 @@
+D:\КИРИЛЛ\Языки программирования (семинары)\Урок002_задача02\variant003\bin\Debug\net6.0\variant003.exe
+D:\КИРИЛЛ\Языки программирования (семинары)\Урок002_задача02\variant003\bin\Debug\net6.0\variant003.deps.json
+D:\КИРИЛЛ\Языки программирования (семинары)\Урок002_задача02\variant003\bin\Debug\net6.0\variant003.runtimeconfig.json
+D:\КИРИЛЛ\Языки программирования (семинары)\Урок002_задача02\variant003\bin\Debug\net6.0\variant003.dll
+D:\КИРИЛЛ\Языки программирования (семинары)\Урок002_задача02\variant003\bin\Debug\net6.0\variant003.pdb
+D:\КИРИЛЛ\Языки программирования (семинары)\Урок002_задача02\variant003\obj\Debug\net6.0\variant003.csproj.AssemblyReference.cache
+D:\КИРИЛЛ\Языки программирования (семинары)\Урок002_задача02\variant003\obj\Debug\net6.0\variant003.GeneratedMSBuildEditorConfig.editorconfig
+D:\КИРИЛЛ\Языки программирования (семинары)\Урок002_задача02\variant003\obj\Debug\net6.0\variant003.AssemblyInfoInputs.cache
+D:\КИРИЛЛ\Языки программирования (семинары)\Урок002_задача02\variant003\obj\Debug\net6.0\variant003.AssemblyInfo.cs
+D:\КИРИЛЛ\Языки программирования (семинары)\Урок002_задача02\variant003\obj\Debug\net6.0\variant003.csproj.CoreCompileInputs.cache
+D:\КИРИЛЛ\Языки программирования (семинары)\Урок002_задача02\variant003\obj\Debug\net6.0\variant003.dll
+D:\КИРИЛЛ\Языки программирования (семинары)\Урок002_задача02\variant003\obj\Debug\net6.0\refint\variant003.dll
+D:\КИРИЛЛ\Языки программирования (семинары)\Урок002_задача02\variant003\obj\Debug\net6.0\variant003.pdb
+D:\КИРИЛЛ\Языки программирования (семинары)\Урок002_задача02\variant003\obj\Debug\net6.0\variant003.genruntimeconfig.cache
+D:\КИРИЛЛ\Языки программирования (семинары)\Урок002_задача02\variant003\obj\Debug\net6.0\ref\variant003.dll
